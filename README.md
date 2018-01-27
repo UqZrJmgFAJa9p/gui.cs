@@ -6,7 +6,7 @@ It is an updated version of
 [gui.cs](https://github.com/mono/mono-curses/blob/master/gui.cs) that
 I wrote for [mono-curses](https://github.com/mono/mono-curses).
 
-The toolkit contains various controls (labesl, text entry, buttons,
+The toolkit contains various controls (labels, text entry, buttons,
 radio buttons, checkboxes, dialog boxes, windows, menus) for building
 text user interfaces, a main loop, is designed to work on Curses and
 the [Windows
